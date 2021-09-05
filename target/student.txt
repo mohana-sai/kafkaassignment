@@ -1,0 +1,19 @@
+
+{
+  "id" : 1,
+  "name" : " Mohana sai ",
+  "course" : "kafka",
+  "age" : 21
+}
+{
+  "id" : 1,
+  "name" : "Mohana sai",
+  "course" : "kafka",
+  "age" : 21
+}
+{
+  "id" : 1,
+  "name" : "",
+  "course" : "Mohana sai",
+  "age" : 21
+}
